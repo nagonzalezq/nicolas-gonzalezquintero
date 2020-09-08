@@ -1,7 +1,7 @@
 ---
 title: Nicolás A. González Quintero
 role: Postdoctoral Fellow in The Institute of Historical Studies
-avatar_filename: 118007512_10164024793885282_4049643507359408033_o.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: The University of Texas at Austin
     url: ""
