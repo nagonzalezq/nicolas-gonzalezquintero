@@ -18,7 +18,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: nagonzalezq@utexas.edu
+    link: "mailto: nagonzalezq@utexas.edu"
   - icon: twitter
     icon_pack: fab
     link: https://https://twitter.com/nicoagonzalez
