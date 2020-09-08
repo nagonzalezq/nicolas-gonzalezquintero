@@ -26,16 +26,16 @@ education:
   courses:
     - course: Ph.D. in History
       institution: The University of Texas at Austin
-      year: 2020
+      year: ""
     - course: M.A. in History
       institution: The University of Texas at Austin
-      year: 2018
+      year: ""
     - course: M.A. in Cultural Studies
       institution: Universidad Nacional de Colombia
-      year: 2013
+      year: ""
     - course: B.A. in History
       institution: Universidad Nacional de Colombia
-      year: 2010
+      year: ""
 email: ""
 user_groups:
   - Researchers
