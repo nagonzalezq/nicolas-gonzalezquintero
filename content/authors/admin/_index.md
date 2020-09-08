@@ -12,7 +12,10 @@ authors:
 bio: My research interests include the Age of Revolution, political culture,
   exile, and migration.
 interests:
-  - ""
+  - Age of Revolution
+  - Migration
+  - Exile
+  - Latin American History
 social:
   - icon: envelope
     icon_pack: fas
