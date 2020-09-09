@@ -1,5 +1,5 @@
 ---
-title: Nicolás A. González Quintero
+title: Nicolás A. González-Quintero
 role: Postdoctoral Fellow in The Institute of Historical Studies
 avatar_filename: avatar.jpg
 organizations:
