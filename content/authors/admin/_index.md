@@ -21,7 +21,7 @@ social:
     link: "mailto: nagonzalezq@utexas.edu"
   - icon: twitter
     icon_pack: fab
-    link: https://https://twitter.com/nicoagonzalez
+    link: https://twitter.com/nicoagonzalez
 education:
   courses:
     - course: Ph.D. in History
