@@ -75,4 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
-### Tiburcio Campe's multiple *exilios*: Mexican radical republicanism, exiled journalism, and the failure of an Imperial liberal project in the Americas
+**Tiburcio Campe's multiple *exilios*: Mexican radical republicanism, exiled journalism, and the failure of an Imperial liberal project in the Americas**
