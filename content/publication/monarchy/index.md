@@ -1,6 +1,6 @@
 ---
-title: "Between Truth and Amnesia: State Terrorism, Human Rights Violations and Transitional Justice in Brazil"
-authors:
+title: "The Monarchical Caribbean: Tomas Wood, Exiles, and Royalist Strongholds during the Spanish American Independence Wars"
+authors: Nicolás Alejandro González-Quintero
 - admin
 date: "2013-04-02T00:00:00Z"
 doi: ""
@@ -15,13 +15,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: []
 
 # Publication name and optional abbreviated publication name.
-publication: "European Review of Latin America and the Caribbean"
+publication: "World History Connected Vol. 16. No. 1, February"
 publication_short: ""
 
-abstract: The military rule in Brazil between 1964 and 1985 employed less violence than similar authoritarian regimes in neighboring countries, and attempted to maintain a facade of legitimacy by allowing for a consented opposition. Nevertheless, Brazil was the last Latin American nation to establish a truth commission. Ever since the Amnesty Law was passed in 1979, authorities and citizens have both struggled to come to terms with the human rights violations committed in the past. The Brazilian government went as far as offering material reparations to the presumed victims without disclosing official information to establish what the reparations were being paid for. Is it better to remember or forget? This Exploration discusses transitional justice strategies, and documents recent developments in Brazil's political history.
+abstract: Unlike most of the American continental territories, the Caribbean islands – except Haiti – maintained their loyalty to the European Crowns during the Age of Atlantic Revolutions (1775–1825).1 The Spanish, British, French, and the Dutch Caribbean mostly opposed revolutionary movements, supported slavery, and aided royalist causes in the Atlantic World. Although the Caribbean was resistant to revolutionary changes, it was deeply involved in the conflicts ignited throughout the continent. Indeed, both royalists and insurgents built some of their most prominent networks of support in this area. The Caribbean became a critical theater for the success of the revolutions on the mainland. Insurgents recruited privateers and adventurers that provided extensive logistical support for patriot armies on the continent. However, the region remained under colonial rule during that period. Why did this trans-imperial space that participated in the continental and the Haitian revolutions remain so committed to royalism and slavery during the Age of Atlantic Revolutions?
 
 # Summary. An optional shortened abstract.
-summary: A review of transitional justice strategies in Brazil
+summary:
 
 tags:
 - Published
@@ -29,8 +29,8 @@ featured: true
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: http://doi.org/10.18352/erlacs.8395
+#   url: "https://worldhistoryconnected.press.uillinois.edu/16.1/forum_quintero.html"
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -45,7 +45,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: true
-#Telegram sent from the Brazilian embassy in Santiago to the Brazilian Ministry of Foreign Affairs, 1973
+#West Indies. Finley, Anthony, A New General Altas, Comprising a Complete Set of Maps, representing the Grand Divisions of the Globe, Together with the several Empires, Kingdoms and States in the World; Compiled from the Best Authorities, and corrected by the Most Recent Discoveries, Philadelphia, 1827
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -61,5 +61,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-![Telegram sent from the Brazilian Embassy in Santiago to the Brazilian Ministry of Foreign Affairs, 1973 (declassified)](featured.png)
-*Telegram sent from the Brazilian Embassy in Santiago to the Brazilian Ministry of Foreign Affairs, 1973 (declassified)*
+![West Indies. Finley, Anthony, A New General Altas, Comprising a Complete Set of Maps, representing the Grand Divisions of the Globe, Together with the several Empires, Kingdoms and States in the World; Compiled from the Best Authorities, and corrected by the Most Recent Discoveries, Philadelphia, 1827](featured.png)
+*West Indies. Finley, Anthony, A New General Altas, Comprising a Complete Set of Maps, representing the Grand Divisions of the Globe, Together with the several Empires, Kingdoms and States in the World; Compiled from the Best Authorities, and corrected by the Most Recent Discoveries, Philadelphia, 1827*
