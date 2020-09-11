@@ -29,14 +29,14 @@ featured: true
 
 # links:
 # - name: ""
-#   url: "https://worldhistoryconnected.press.uillinois.edu/16.1/forum_quintero.html"
+#   url: ""
 url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: https://worldhistoryconnected.press.uillinois.edu/16.1/forum_quintero.html
 url_video: ''
 
 # Featured image
