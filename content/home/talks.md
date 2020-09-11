@@ -68,3 +68,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+** Los olvidados ** Columna bicentenaria, *El Tiempo*, 3 de septiembre de 2019, https://www.eltiempo.com/opinion/columnistas/la-columna-bicentenaria/los-olvidados-la-columna-bicentenaria-408348
