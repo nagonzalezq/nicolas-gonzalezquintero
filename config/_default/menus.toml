@@ -25,6 +25,6 @@
   
 [[main]]  
   name = "CV"
-  url = "https://github.com/nagonzalezq/nicolas-gonzalezquintero/blob/master/static/cv.pdf"
+  url = "static/cv.pdf"
   weight = 50
 
