@@ -1,6 +1,6 @@
 ---
 title: "The Monarchical Caribbean: Tomas Wood, Exiles, and Royalist Strongholds during the Spanish American Independence Wars."
-authors: Nicolás Alejandro González-Quintero
+authors: 
 - admin
 date: "2013-04-02T00:00:00Z"
 doi: ""
