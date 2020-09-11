@@ -1,6 +1,6 @@
 ---
-title: "Between Truth and Amnesia: State Terrorism, Human Rights Violations and Transitional Justice in Brazil"
-authors:
+title: "El juzgado y los ladrones. Cómo se elaboró un sujeto peligroso en Santafé (1750-1808)"
+authors: Nicolás Alejandro González-Quintero
 - admin
 date: "2013-04-02T00:00:00Z"
 doi: ""
@@ -12,16 +12,16 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: []
+publication_types: [2]
 
 # Publication name and optional abbreviated publication name.
-publication: "European Review of Latin America and the Caribbean"
+publication: "Historia Crítica 42, Septiembre-Diciembre, 2010"
 publication_short: ""
 
-abstract: The military rule in Brazil between 1964 and 1985 employed less violence than similar authoritarian regimes in neighboring countries, and attempted to maintain a facade of legitimacy by allowing for a consented opposition. Nevertheless, Brazil was the last Latin American nation to establish a truth commission. Ever since the Amnesty Law was passed in 1979, authorities and citizens have both struggled to come to terms with the human rights violations committed in the past. The Brazilian government went as far as offering material reparations to the presumed victims without disclosing official information to establish what the reparations were being paid for. Is it better to remember or forget? This Exploration discusses transitional justice strategies, and documents recent developments in Brazil's political history.
+abstract: En este artículo analizaremos la construcción de un sujeto peligroso en la figura del ladrón a través del estudio de algunos juicios criminales. Ahondaremos en el problema de la ley y su función en la construcción de sujetos a partir de la manera cómo se juzgó y castigó este delito. El espacio de la ciudad colonial y el juzgado se convirtieron en los lugares fundamentales para este proceso, al igual que la actuación de los demás habitantes de la ciudad, la constante vigilancia, la construcción de un pasado, la confesión y el castigo como parte importante de su pública voz y fama. 
 
 # Summary. An optional shortened abstract.
-summary: A review of transitional justice strategies in Brazil
+summary: 
 
 tags:
 - Published
@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://doi.org/10.18352/erlacs.8395
+url_pdf: https://revistas.uniandes.edu.co/doi/abs/10.7440/histcrit42.2010.08#readcube-epdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -45,7 +45,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: true
-#Telegram sent from the Brazilian embassy in Santiago to the Brazilian Ministry of Foreign Affairs, 1973
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -61,5 +61,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-![Telegram sent from the Brazilian Embassy in Santiago to the Brazilian Ministry of Foreign Affairs, 1973 (declassified)](featured.png)
-*Telegram sent from the Brazilian Embassy in Santiago to the Brazilian Ministry of Foreign Affairs, 1973 (declassified)*
