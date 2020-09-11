@@ -25,7 +25,7 @@ summary: A review of transitional justice strategies in Brazil
 
 tags:
 - Published
-featured: false
+featured: true
 
 # links:
 # - name: ""
