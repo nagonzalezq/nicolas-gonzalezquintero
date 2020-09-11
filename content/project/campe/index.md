@@ -1,5 +1,6 @@
 ---
-title: "Tiburcio Campe"
+title: "“Tiburcio Campe's multiple exilios: Mexican radical republicanism, exiled journalism,
+and the failure of an Imperial liberal project in the Americas"
 authors:
 - admin
 date: "2013-04-02T00:00:00Z"
@@ -15,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: []
 
 # Publication name and optional abbreviated publication name.
-publication: "European Review of Latin America and the Caribbean"
+publication: ""
 publication_short: ""
 
-abstract: The military rule in Brazil between 1964 and 1985 employed less violence than similar authoritarian regimes in neighboring countries, and attempted to maintain a facade of legitimacy by allowing for a consented opposition. Nevertheless, Brazil was the last Latin American nation to establish a truth commission. Ever since the Amnesty Law was passed in 1979, authorities and citizens have both struggled to come to terms with the human rights violations committed in the past. The Brazilian government went as far as offering material reparations to the presumed victims without disclosing official information to establish what the reparations were being paid for. Is it better to remember or forget? This Exploration discusses transitional justice strategies, and documents recent developments in Brazil's political history.
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: A review of transitional justice strategies in Brazil
+summary: 
 
 tags:
 - Published
