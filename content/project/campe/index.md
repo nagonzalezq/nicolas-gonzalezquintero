@@ -1,6 +1,5 @@
 ---
-title: "“Tiburcio Campe's multiple exilios: Mexican radical republicanism, exiled journalism,
-and the failure of an Imperial liberal project in the Americas"
+title: "Tiburcio Campe's multiple exilios: Mexican radical republicanism, exiled journalism, and the failure of an Imperial liberal project in the Americas"
 authors:
 - admin
 date: "2013-04-02T00:00:00Z"
@@ -62,5 +61,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-![Telegram sent from the Brazilian Embassy in Santiago to the Brazilian Ministry of Foreign Affairs, 1973 (declassified)](featured.png)
-*Telegram sent from the Brazilian Embassy in Santiago to the Brazilian Ministry of Foreign Affairs, 1973 (declassified)*
+
