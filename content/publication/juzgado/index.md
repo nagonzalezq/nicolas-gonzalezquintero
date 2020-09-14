@@ -2,7 +2,7 @@
 title: "El juzgado y los ladrones. Cómo se elaboró un sujeto peligroso en Santafé (1750-1808)"
 authors:
 - admin
-date: "2013-04-02T00:00:00Z"
+date: "2010-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
