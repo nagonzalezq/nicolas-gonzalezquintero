@@ -25,7 +25,7 @@ summary:
 
 tags:
 - Published
-featured: true
+featured: false
 
 # links:
 # - name: ""
