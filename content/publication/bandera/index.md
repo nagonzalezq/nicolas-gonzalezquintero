@@ -62,5 +62,5 @@ projects: []
 slides: example
 ---
 
-![Francisco de Paula Santander, José María Espinosa, 1853] (featured.png)
+![Francisco de Paula Santander, José María Espinosa, 1853](featured.png)
 *Francisco de Paula Santander, José María Espinosa, 1853*
