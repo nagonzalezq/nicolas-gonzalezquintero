@@ -61,5 +61,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-![West Indies. Finley, Anthony, A New General Altas, Comprising a Complete Set of Maps, representing the Grand Divisions of the Globe, Together with the several Empires, Kingdoms and States in the World; Compiled from the Best Authorities, and corrected by the Most Recent Discoveries, Philadelphia, 1827](featured.png)
+!(featured.png)
 *West Indies. Finley, Anthony, A New General Altas, Comprising a Complete Set of Maps, representing the Grand Divisions of the Globe, Together with the several Empires, Kingdoms and States in the World; Compiled from the Best Authorities, and corrected by the Most Recent Discoveries, Philadelphia, 1827*
