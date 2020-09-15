@@ -45,6 +45,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: true
+#Francisco de Paula Santander, José María Espinosa, 1853
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -60,3 +61,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+![Francisco de Paula Santander, José María Espinosa, 1853] (featured.png)
+*Francisco de Paula Santander, José María Espinosa, 1853*
