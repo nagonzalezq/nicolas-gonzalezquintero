@@ -62,5 +62,5 @@ projects: []
 slides: example
 ---
 
-! [El Anteojo de Larga Vista, No. 11, Santafé de Bogotá, 1814] (featured.png)
+![El Anteojo de Larga Vista, No. 11, Santafé de Bogotá, 1814](featured.png)
 *El Anteojo de Larga Vista, No. 11, Santafé de Bogotá, 1814*.
