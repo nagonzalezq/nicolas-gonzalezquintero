@@ -69,5 +69,10 @@ subtitle = ""
  css_class = ""
 +++
 
-**Los olvidados**, Columna bicentenaria, *El Tiempo*, 3 de septiembre de 2019
-https://www.eltiempo.com/opinion/columnistas/la-columna-bicentenaria/los-olvidados-la-columna-bicentenaria-408348
+**Nicolás González-Quintero and Rupali Warke awarded Internal Postdoc Fellowships in 2020-21**, *Institute for Historical Studies*, May 11, 2020, https://tinyurl.com/y5b9g86h
+
+**Episode 123: Scientific, Geographic & Historiographic Inventions of Colombia (Host)", *15 Minute History*, Interview with Lina del Castillo, October 2, 2019, https://tinyurl.com/y2qdp8wu 
+
+**Los olvidados**, Columna bicentenaria, *El Tiempo*, 3 de septiembre de 2019, https://tinyurl.com/y52hqzw4
+
+**Graduate Student Spotlight: Ernesto Mercado-Montero and Nicolás González Quintero**, *Institute for Historical Studies*, May 15, 2018, https://tinyurl.com/y6onqxoy 
