@@ -45,6 +45,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: true
+#Mapa de Bogotá, Joseph Aparicio Morata, 1772.
 
 
 # Associated Projects (optional).
@@ -61,3 +62,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+![Mapa de Bogotá, Joseph Aparicio Morata, 1772](featured.png)
+*Mapa de Bogotá, Joseph Aparicio Morata, 1772, Tomado de http://semanahistoria.com/las-casas-en-la-colonia/* 
