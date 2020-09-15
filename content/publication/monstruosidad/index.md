@@ -45,7 +45,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: true
-#El Anteojo de Larga Vista, No. 11, Santafé de Bogotá, 1814
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -62,5 +62,3 @@ projects: []
 slides: example
 ---
 
-![El Anteojo de Larga Vista, No. 11, Santafé de Bogotá, 1814](featured.png)
-*El Anteojo de Larga Vista, No. 11, Santafé de Bogotá, 1814*.
