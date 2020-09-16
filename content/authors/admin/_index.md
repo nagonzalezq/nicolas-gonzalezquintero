@@ -15,6 +15,8 @@ interests:
   - Migration
   - Exile
   - Latin American History
+  - Empire
+  - Caribbean History
 social:
   - icon: envelope
     icon_pack: fas
