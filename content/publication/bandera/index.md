@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: [6]
 
 # Publication name and optional abbreviated publication name.
-publication: "Disfraz y pluma de todos. Opinión pública y cultura política, siglos XVIII y XIX. Editado por Francisco Ortega y Alexander Chaparro."
+publication: "*Disfraz y pluma de todos. Opinión pública y cultura política, siglos XVIII y XIX*. Editado por Francisco Ortega y Alexander Chaparro, Bogotá, Universidad Nacional de Colombia-Universidad de Helsinki, 2012, pp. 231-261."
 publication_short: ""
 
 abstract: Este capítulo tiene como objetivo analizar los sentidos que el concepto de nación adquirió en el periódico colombiano La Bandera Tricolor, publicado entre 1826 y 1827. A partir de las revueltas de Valencia y Caracas en 1826 y el liderato que obtendría José Antonio Páez en Venezuela, este periódico, respaldado por Santander, haría una defensa acérrima de la Constitución de Cúcuta de 1821 como el soporte principal de la nación colombiana, en respuesta a la situación que se presentaba en Venezuela en ese momento. De esta forma, el capítulo examina la esfera pública como catalizadora de una idea de nación basada en la Constitución y el gobierno popular representativo por medio de la metáfora de la familia.
@@ -45,7 +45,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: true
-#Francisco de Paula Santander, José María Espinosa, 1853
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -62,5 +62,4 @@ projects: []
 slides: example
 ---
 
-![Francisco de Paula Santander, José María Espinosa, 1853](featured.png)
-*Francisco de Paula Santander, José María Espinosa, 1853*
+
