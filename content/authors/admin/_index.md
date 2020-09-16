@@ -47,7 +47,7 @@ I am a historian of Latin America, the Caribbean, and the Atlantic World. Curren
 
 I hold a Ph.D and a M.A in History from The University of Texas at Austin as well as a M.A. in Cultural Studies from the Universidad Nacional de Colombia. I was born and raised in Colombia. I am big fan of fútbol, [Pearl Jam](https://pearljam.com/), and Roberto Bolaño.
 
-\----------------------------------------------------------------------------------------------------------------------------
+\-----------------------------------------------------------------------------------------------------------------------------
 
 Soy historiador de América Latina, el Caribe, y el Mundo Atlántico. Actualmente, soy investigador posdoctoral del Institute of Historical Studies en la Universidad de Texas en Austin. Estudió la Era de las Revoluciones y la historia moderna de América Latina y el Caribe. Siguiendo la trayectoria de exiliados realistas de las revoluciones hispanoamericanas, mi investigación examina la reconstitución imperial en el Caribe como una alternativa política al nacimiento de los estados republicanos en Latinoamérica y los Estados Unidos en el siglo XIX.
 
