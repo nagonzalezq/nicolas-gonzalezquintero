@@ -1,5 +1,5 @@
 ---
-title: "“Se evita que de vagos pasen a delincuentes”: Santafé como una ciudad peligrosa (1750-1808)"
+title: "“Se evita que de vagos pasen a delincuentes”: Santafé como una ciudad peligrosa (1750-1808)."
 authors:
 - admin
 date: "2010-07-01T00:00:00Z"
@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: [2]
 
 # Publication name and optional abbreviated publication name.
-publication: "Anuario Colombiano de Historia Social y de la Cultura Vol. 37, Núm. 2, 2010"
+publication: "Anuario Colombiano de Historia Social y de la Cultura Vol. 37, Núm. 2, 2010."
 publication_short: ""
 
 abstract: Este artículo analiza la discusión sobre un concepto emergente de ocio y de pobreza durante la configuración de Santafé como una ciudad peligrosa a finales del siglo XVIII y comienzos del XIX. A partir de la lectura de la prensa de la época y de las relaciones entre gobernantes y otros funcionarios coloniales, es explorada la formación de un espacio discursivo en el cual la peligrosidad de la ciudad estaba estrechamente ligada a una nueva lógica sobre el ocio y su regulación. Esto se evidencia en la construcción de ciertas instituciones de control y en la elaboración de la fama como eje articulador de la categorización de ciertos sujetos que no cumplían con las disposiciones imperiales, por lo que se convertían en sujetos de intervención por ser diferentes. 
