@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: [6]
 
 # Publication name and optional abbreviated publication name.
-publication: "Conceptos fundamentales de la cultura política de la Independencia. Editado por Francisco Ortega y Yobenj Aucardo Chicangana-Bayona."
+publication: "*Conceptos fundamentales de la cultura política de la Independencia*. Editado por Francisco Ortega y Yobenj Aucardo Chicangana-Bayona. Bogotá, Universidad Nacional de Colombia-Universidad de Helsinki, 2012, pp. 353-380"
 publication_short: ""
 
 abstract: Este capítulo se centra en la negación del concepto de ciudadanía; en la construcción de su borde en la Nueva Granada, a finales del siglo XVIII y comienzos del siglo XIX (1780-1814). Se estudiará cómo esta negación permitió y validó procesos de exclusión social a través de la limitación de la posibilidad de la ciudadanía, reduciendo el campode lo pensable en el concepto de ciudadano y delimitando el marco de las controversias y los conflictos que se presentaron en su definición (Rosanvallon, 2003, p. 46). Posicionar las negaciones de estas categoríascomo categorías sociales en sí mismas (de no-ciudadanía), nos permiteexaminar la forma en que este concepto fue utilizado para organizar co-munidades políticas, generando inclusión y exclusión social. 
