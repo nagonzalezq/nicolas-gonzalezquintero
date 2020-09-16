@@ -18,7 +18,7 @@ publication_types: [2]
 publication: "Anuario Colombiano de Historia Social y de la Cultura Vol. 37, Núm. 2, 2010"
 publication_short: ""
 
-abstract: Este artículo analiza la discusión sobre un concepto emergente de ocio y de pobreza durante la configuración de Santafé como una ciudad peligrosa a finales del siglo xviii y comienzos del xix. A partir de la lectura de la prensa de la época y de las relaciones entre gobernantes y otros funcionarios coloniales, es explorada la formación de un espacio discursivo en el cual la peligrosidad de la ciudad estaba estrechamente ligada a una nueva lógica sobre el ocio y su regulación. Esto se evidencia en la construcción de ciertas instituciones de control y en la elaboración de la fama como eje articulador de la categorización de ciertos sujetos que no cumplían con las disposiciones imperiales, por lo que se convertían en sujetos de intervención por ser diferentes. 
+abstract: Este artículo analiza la discusión sobre un concepto emergente de ocio y de pobreza durante la configuración de Santafé como una ciudad peligrosa a finales del siglo XVIII y comienzos del XIX. A partir de la lectura de la prensa de la época y de las relaciones entre gobernantes y otros funcionarios coloniales, es explorada la formación de un espacio discursivo en el cual la peligrosidad de la ciudad estaba estrechamente ligada a una nueva lógica sobre el ocio y su regulación. Esto se evidencia en la construcción de ciertas instituciones de control y en la elaboración de la fama como eje articulador de la categorización de ciertos sujetos que no cumplían con las disposiciones imperiales, por lo que se convertían en sujetos de intervención por ser diferentes. 
 
 # Summary. An optional shortened abstract.
 summary: 
