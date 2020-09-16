@@ -1,5 +1,5 @@
 ---
-title: "El juzgado y los ladrones. Cómo se elaboró un sujeto peligroso en Santafé (1750-1808)"
+title: "El juzgado y los ladrones. Cómo se elaboró un sujeto peligroso en Santafé (1750-1808)."
 authors:
 - admin
 date: "2010-09-01T00:00:00Z"
@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: [2]
 
 # Publication name and optional abbreviated publication name.
-publication: "Historia Crítica 42, Septiembre-Diciembre, 2010"
+publication: "Historia Crítica 42, Septiembre-Diciembre, 2010."
 publication_short: ""
 
 abstract: En este artículo analizaremos la construcción de un sujeto peligroso en la figura del ladrón a través del estudio de algunos juicios criminales. Ahondaremos en el problema de la ley y su función en la construcción de sujetos a partir de la manera cómo se juzgó y castigó este delito. El espacio de la ciudad colonial y el juzgado se convirtieron en los lugares fundamentales para este proceso, al igual que la actuación de los demás habitantes de la ciudad, la constante vigilancia, la construcción de un pasado, la confesión y el castigo como parte importante de su pública voz y fama. 
