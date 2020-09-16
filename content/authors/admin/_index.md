@@ -41,6 +41,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a historian of Latin America, the Caribbean, and the Atlantic World. Currently, I am a postdoctoral fellow at [The Institute of Historical Studies](https://liberalarts.utexas.edu/historicalstudies/index.php) in The University of Texas at Austin. I study the Age of Revolution and 19th Century Latin American History. By focusing on the trajectories of loyalist exiles from the Spanish American Revolution, my research examines the reconstitution of empire in the Caribbean as a political alternative to the nascent nation-states of Spanish America and the United States in the 19th Century.
+I am a historian of Latin America, the Caribbean, and the Atlantic World. Currently, I am a postdoctoral fellow at [The Institute of Historical Studies](https://liberalarts.utexas.edu/historicalstudies/index.php) in The University of Texas at Austin. I study the Age of Revolution and Modern Latin American History. By focusing on the trajectories of loyalist exiles from the Spanish American Revolutions, my research examines the reconstitution of empire in the Caribbean as a political alternative to the nascent republican nation-states of Spanish America and the United States in the 19th Century.
 
 I hold a Ph.D and a M.A in History from The University of Texas at Austin as well as a M.A. in Cultural Studies from the Universidad Nacional de Colombia. I was born and raised in Colombia. I am big fan of fútbol, [Pearl Jam](https://pearljam.com/), and Roberto Bolaño.
