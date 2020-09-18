@@ -49,6 +49,6 @@ I hold a Ph.D and a M.A in History from The University of Texas at Austin as wel
 
 \-----------------------------------
 
-Soy historiador de América Latina, el Caribe, y el Mundo Atlántico. Actualmente, soy investigador posdoctoral del Institute of Historical Studies en la Universidad de Texas en Austin. Estudió la Era de las Revoluciones y la historia moderna de América Latina y el Caribe. Siguiendo la trayectoria de exiliados realistas de las revoluciones hispanoamericanas, mi investigación examina la reconstitución imperial en el Caribe como una alternativa política al nacimiento de los estados republicanos en Latinoamérica y los Estados Unidos en el siglo XIX.
+Soy historiador de América Latina, el Caribe, y el Mundo Atlántico. Actualmente, soy investigador posdoctoral del Institute of Historical Studies en la Universidad de Texas en Austin. Estudio la Era de las Revoluciones y la historia moderna de América Latina y el Caribe. Siguiendo la trayectoria de exiliados realistas de las revoluciones hispanoamericanas, mi investigación examina la reconstitución imperial en el Caribe como una alternativa política al nacimiento de los estados republicanos en Latinoamérica y los Estados Unidos en el siglo XIX.
 
 Soy Doctor y magister en Historia de la Universidad de Texas en Austin. Así mismo, soy magister en estudios culturales e historiador de la Universidad Nacional de Colombia. Nací y crecí en Colombia. Soy un gran fan del fútbol, Pearl Jam, y Roberto Bolaño.
